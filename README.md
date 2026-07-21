@@ -34,57 +34,55 @@ Para garantir informações confiáveis, foram utilizadas fontes reconhecidas na
 
 # Testes Engenharia de Prompts
 
-### Prompt
+# Prompt
 
 > Explique de forma curta lógica de programação como se eu nunca tivesse programado.
 
-**Resultado:**  
+### Resultado: 
 A lógica de programação consiste em organizar instruções em uma sequência clara, como uma receita, para ensinar o computador a resolver problemas específicos. Ela funciona como a base universal de todas as linguagens, permitindo transformar informações de entrada em resultados úteis através de regras lógicas e decisões
 
 ---
 
-### Prompt
+# Prompt
 
 > Faça um resumo curto sobre variáveis, tipos de dados e operadores.
 
-**Resultado:**  
+### Resultado:  
 Variáveis são espaços nomeados na memória que armazenam dados como números (int, float), textos (str) e valores lógicos (bool)
 . Operadores aritméticos, relacionais e lógicos permitem processar esses dados realizando cálculos, comparações de valores e decisões lógicas no programa
 
 ---
 
-### Prompt
+# Prompt
 
 > Crie 2 exercícios curtos para praticar estruturas condicionais.
 
-**Resultado:**  
+### Resultado:  
 Verificação de Par ou Ímpar: Escreva um programa que peça um número inteiro ao usuário e informe se ele é par ou ímpar
 .
 Dica: Um número é par quando o resto da sua divisão por 2 é igual a zero (use o operador %)
 
-
 Classificação de Números: Crie um programa que receba um número e utilize as estruturas if, elif e else para dizer se o valor é positivo, negativo ou neutro (zero)
-.
+
 Dica: Utilize if para testar se é maior que zero, elif para testar se é menor que zero e else para o caso de ser igual a zero
-.
+
 ---
 
-### Prompt
-
+# Prompt
 > Monte um plano curto de estudos de Python para iniciantes.
 
-**Resultado:**  
+### Resultado:  
 Este plano de estudos estruturado para 2026 pode ser resumido em quatro passos práticos focados em consistência diária e aprendizado orientado a projetos:
 Configuração e Início: Instale o Python (marcando a opção "Add Python to PATH") e utilize editores como VS Code ou IDLE para executar seu primeiro script print("Olá, Mundo!")
-.
+
 Fundamentos de Lógica: Aprenda a manipular variáveis e tipos de dados (inteiros, decimais, textos e booleanos) e utilize estruturas condicionais (if, elif, else) para criar programas que tomam decisões, como calculadoras simples
-.
+
 Controle de Fluxo e Dados: Domine os laços de repetição (for e while) para automatizar tarefas e utilize listas e dicionários para organizar grandes volumes de informação de forma eficiente
-.
+
 Organização e Portfólio: Suba de nível criando funções reutilizáveis, organizando seu código em módulos e utilizando ferramentas profissionais como ambientes virtuais (venv) e Git/GitHub para registrar seus projetos e construir um portfólio
-.
+
 O objetivo final é evoluir da sintaxe básica para a criação de sistemas reais, preparando a base para especializações em áreas como Ciência de Dados ou Desenvolvimento Web
-.
+
 ---
 
 #  Dificuldades
